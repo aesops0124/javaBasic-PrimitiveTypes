@@ -1,5 +1,5 @@
 What is the knowledge point of the test? Where is the offical document to the knowledge point? 
-A: The test is basically testing the use of JAVA's Primitive Data Types.
+A: The test is basically testing the use of JAVA's Primitive Data Types. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 Why the test failed at first? 
 A: Because I did not get the logic of the test at first.
